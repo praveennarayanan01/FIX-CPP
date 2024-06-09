@@ -13,3 +13,4 @@ set(
 target_include_directories(${PROJECT_SOURCE_DIR}/Headers)
 
 add_executable(${PROJECT_NAME} VAR_SOURCE)
+
